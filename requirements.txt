@@ -3,3 +3,4 @@ tensorflow
 numpy
 transformers
 datasets
+tf-keras
